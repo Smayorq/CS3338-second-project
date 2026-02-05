@@ -1,0 +1,73 @@
+commit 8bed6c3dd76d90423ca7b3eb9e5f1b6cfdd3f54d
+Merge: d61c822 1b6b8ee
+Author: Steven Mayorquin <stevo.mayorquin@gmail.com>
+Date:   Thu Feb 5 13:30:26 2026 -0800
+
+    Resolved conflict and merge both edits together
+
+commit 1b6b8ee5ae505f1f3ad75c560aadaa945722fd12
+Author: Steven Mayorquin <stevo.mayorquin@gmail.com>
+Date:   Thu Feb 5 13:14:49 2026 -0800
+
+    added a line of my favorite game
+
+commit d61c822092728fde40b57e73071bbc2e647d082e
+Author: Steven Mayorquin <stevo.mayorquin@gmail.com>
+Date:   Thu Feb 5 13:11:15 2026 -0800
+
+    added a line of my favorite food
+
+commit 56a19aea3b944fe48bdccfa04b6d66c7c328504f
+Author: Steven Mayorquin <stevo.mayorquin@gmail.com>
+Date:   Thu Feb 5 13:06:00 2026 -0800
+
+    Commit my README
+
+commit 50bd754b8b3275a1c124c9263ea340dc54daf4de
+Merge: 1d2bfc0 0394c8b
+Author: Smayorq <stevo.mayorquin@gmail.com>
+Date:   Fri Jan 30 10:54:00 2026 -0800
+
+    Merge pull request #1 from Smayorq/info-fill
+    
+    Updated index with my name and hobby
+
+commit 0394c8bdc7b356d85f1cd77429d4283de6469b79
+Author: Steven Mayorquin <stevo.mayorquin@gmail.com>
+Date:   Fri Jan 30 10:44:28 2026 -0800
+
+    Updated index with my name and hobby
+
+commit 005692bea56525896e5d143a5184d74eff7dc1ed
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Tue Sep 3 20:32:19 2024 -0700
+
+    Deleted Color About Me
+    
+    This category is not needed.
+
+commit 53c064b2416ee48889b4b837fea7f88e75e0613a
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Tue Sep 3 20:24:43 2024 -0700
+
+    Adding Feature Stating Favorite Color
+    
+    Added a category in the page to list favorite color.
+
+commit 815ac319120c6d6b840d9d5e891a4de1fa082856
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Mon Sep 2 20:25:36 2024 -0700
+
+    Complete Revamp of index.html
+    
+    Completed a css style list giving a better design to the header, and information on the page.
+    
+    Created a header to clarify when
+    
+    Created a streamline format to deliver personalized information on the about me page.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
